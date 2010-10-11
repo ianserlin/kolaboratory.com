@@ -62,7 +62,7 @@ img.thumbnail {
   width: 900px;
   height: 100%;
   margin: 0 auto;
-  background: url("/images/kolab_logo_ldappliquae.gif") no-repeat 50% top;
+  background: url("/images/kolab_logo_brusquea.gif") no-repeat 50% 10px;
   padding-top: 140px;
   padding-left: 50px; }
 
@@ -71,7 +71,7 @@ img.thumbnail {
   top: -10px;
   width: 900px;
   left: 50%;
-  margin-left: -450px;
+  margin-left: -480px;
   text-align: center;
   font-size: 80px;
   font-family: "Cantarell", arial, serif; }
